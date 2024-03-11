@@ -3,3 +3,8 @@
     margin: 15px;
     border-radius: 20px;
 }
+
+.visited{
+    background-color: bisque;
+    color: black;
+}
